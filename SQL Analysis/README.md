@@ -1,2 +1,1 @@
-# This contains the SQL script used for the analysis and also contains a juptyer notebook which is useful for running the same codes within jupyter notebook for users 
-# that doesn't have a SQL workbench installed 
+# This contains the SQL script used for the analysis and also contains a juptyer notebook which is useful for running the same codes within jupyter notebook for users that doesn't have a SQL workbench installed 
